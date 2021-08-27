@@ -10,7 +10,7 @@ Meta Initialization: PSNR 23.4, SSIM 0.785\
 ![010836](https://user-images.githubusercontent.com/61622080/131056665-0537f629-82c0-4408-858e-4cc5970d439e.png)
 
 ## Cross-Domain Image Super-Resolution
-Example: Image 0808 of CelebA\
+Example: Image 0808 of DIV2K\
 Bicubic: PSNR 21.0, SSIM 0.479\
 Meta Initialization: PSNR 21.2, SSIM 0.494\
 ![0808](https://user-images.githubusercontent.com/61622080/131056507-ddd12583-8e74-4fc5-b013-d0ee2fd05523.png)
@@ -22,3 +22,6 @@ Fourier Feature Transformation: https://github.com/tancik/fourier-feature-networ
 GAN: https://github.com/eriklindernoren/PyTorch-GAN \
 MAML: https://github.com/cbfinn/maml \
 SIREN Layer: https://colab.research.google.com/github/vsitzmann/siren/blob/master/explore_siren.ipynb
+
+## Other References
+Please refer to the actual report.
