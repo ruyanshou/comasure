@@ -5,14 +5,14 @@ This repository stores scripts used to run COMASure and its extensions. The mode
 
 ## Single Domain Image Super-Resolution
 Example: Image 010836 of CelebA\
-Bicubic: PSNR 23.2006792446605, SSIM 0.7800970077514648\
-Meta Initialization: PSNR 23.359847958286906, SSIM 0.7853270173072815\
+Bicubic: PSNR 23.2, SSIM 0.780\
+Meta Initialization: PSNR 23.4, SSIM 0.785\
 ![010836](https://user-images.githubusercontent.com/61622080/131056665-0537f629-82c0-4408-858e-4cc5970d439e.png)
 
 ## Cross-Domain Image Super-Resolution
 Example: Image 0808 of CelebA\
-Bicubic: PSNR 21.013400432140457, SSIM 0.47938820719718933\
-Meta Initialization: PSNR 21.203494526505565, SSIM 0.4939444959163666\
+Bicubic: PSNR 21.0, SSIM 0.479\
+Meta Initialization: PSNR 21.2, SSIM 0.494\
 ![0808](https://user-images.githubusercontent.com/61622080/131056507-ddd12583-8e74-4fc5-b013-d0ee2fd05523.png)
 
 ## Code References
