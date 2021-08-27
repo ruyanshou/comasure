@@ -13,7 +13,7 @@ Bicubic: PSNR 21.013400432140457, SSIM 0.47938820719718933\
 Meta Initialization: PSNR 21.203494526505565, SSIM 0.4939444959163666\
 ![0808](https://user-images.githubusercontent.com/61622080/131056507-ddd12583-8e74-4fc5-b013-d0ee2fd05523.png)
 
-# Code References
+## Code References
 CoCoNet: https://github.com/paulbricman/python-fuse-coconet\
 CoCoNet+MAML: https://github.com/tancik/learnit\
 Fourier Feature Transformation: https://github.com/tancik/fourier-feature-networks\
