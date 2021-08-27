@@ -14,9 +14,9 @@ Meta Initialization: PSNR 21.203494526505565, SSIM 0.4939444959163666\
 ![0808](https://user-images.githubusercontent.com/61622080/131056507-ddd12583-8e74-4fc5-b013-d0ee2fd05523.png)
 
 ## Code References
-CoCoNet: https://github.com/paulbricman/python-fuse-coconet\
-CoCoNet+MAML: https://github.com/tancik/learnit\
-Fourier Feature Transformation: https://github.com/tancik/fourier-feature-networks\
-GAN: https://github.com/eriklindernoren/PyTorch-GAN\
-MAML: https://github.com/cbfinn/maml\
-SIREN Layer: https://colab.research.google.com/github/vsitzmann/siren/blob/master/explore_siren.ipynb\
+CoCoNet: https://github.com/paulbricman/python-fuse-coconet \
+CoCoNet+MAML: https://github.com/tancik/learnit \
+Fourier Feature Transformation: https://github.com/tancik/fourier-feature-networks \
+GAN: https://github.com/eriklindernoren/PyTorch-GAN \
+MAML: https://github.com/cbfinn/maml \
+SIREN Layer: https://colab.research.google.com/github/vsitzmann/siren/blob/master/explore_siren.ipynb
