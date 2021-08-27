@@ -1,6 +1,8 @@
 # COMASure - CoCoNet MAML based Super-Resolution Network
 This repository stores scripts used to run COMASure and its extensions. The models are studied as part of the requirements for the MSc Data Science and Machine Learning dissertation at UCL.
 
+**Disclaimers:** All the implementations in this repository are made for research exploration and educational purposes only. They are not ready for industrial usages and the effectiveness is not guaranteed. In addition, permission should be obtained from the author before any distribution or reproduction.
+
 ## Single Domain Image Super-Resolution
 Example: Image 010836 of CelebA\
 Bicubic: PSNR 23.2006792446605, SSIM 0.7800970077514648\
