@@ -1,4 +1,4 @@
-# COMASure - CoCoNet MAML based Super-Resolution Network
+# COMASure - Coordinate Network and MAML based Super-Resolution Network
 This repository stores scripts used to run COMASure and its extensions. The models are studied as part of the requirements for the MSc Data Science and Machine Learning dissertation at UCL.
 
 **Disclaimers:** All the implementations in this repository are made for research exploration and educational purposes only. They are not ready for industrial usages and the effectiveness is not guaranteed. In addition, permission should be obtained from the author before any distribution or reproduction.
